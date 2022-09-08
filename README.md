@@ -1,0 +1,5 @@
+- 👋 ola meu nome e jennifer silvestro
+- 👀 estou interessada em assistir os cursos do alura 
+- 🌱 atualmente estou aprendendo git hub
+- 💞️ colaborar com as aulas de pensamento computacional
+- 📫 jennifer.silvestro@escola.pr.gov.br
